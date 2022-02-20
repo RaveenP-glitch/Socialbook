@@ -1,2 +1,2 @@
 # Socialbook
-Facebook style social platform interface.
+Facebook styled social platform interface.
