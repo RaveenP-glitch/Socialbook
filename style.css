@@ -434,6 +434,8 @@ nav{
 .user-profile span{
     font-size: 13px;
     color: #9a9a9a;
+    margin-left: 20px;
+    margin-top: 4px;
 
 }
 
@@ -496,3 +498,8 @@ nav{
 
 }
 
+.post-row a{
+    color: #9a9a9a;
+
+
+}
